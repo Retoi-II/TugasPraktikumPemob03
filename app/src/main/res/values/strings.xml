@@ -1,0 +1,19 @@
+<resources>
+	<string name="app_name">Aplikasiku</string>
+	<string name="logo_text">Bezet</string>
+	<string name="sign_in"></string>
+	<string name="welcome_back"></string>
+	<string name="sign_in_to_continue"></string>
+	<string name="username">Username</string>
+	<string name="password">Password</string>
+	<string name="enter_your_password">Masukkan password</string>
+	<string name="forgot_password">Lupa password</string>
+	<string name="get_started"></string>
+	<string name="log_in">LOGIN</string>
+	<string name="reset_code">Reset Code</string>
+	<string name="enter_your_reset_code">Masukkan reset code Anda</string>
+	<string name="new_password">Password Baru</string>
+	<string name="confirm_password">Konfirmasi Password</string>
+	<string name="send_request">Kirim Request</string>
+	<string name="change_password">Ganti Password</string>
+</resources>
